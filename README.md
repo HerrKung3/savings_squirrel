@@ -1,0 +1,2 @@
+# savings_squirrel
+基于Rust开发的记账软件后台关系系统
